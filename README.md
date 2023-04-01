@@ -34,8 +34,10 @@ Backup Tool was made for educational purposes, therefor all consequences caused 
 
 
 ```js
+
 module.exports = {
-    token: "" // place your token like example
+  //Put your account token here
+    token: "" 
 }
 ```
 ---
